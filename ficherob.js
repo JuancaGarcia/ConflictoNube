@@ -1,8 +1,7 @@
 console.log("+++++++++++++++++");
-<<<<<<< HEAD
-console.log("Soy el fichero 2");
-console.log("+++++++++++++++++");
-=======
 console.log("Soy el fichero segundo");
 console.log("+...................");
->>>>>>> mirama
+console.log("+...................");
+console.log("+...................");
+console.log("+...................");
+console.log("+...................");
